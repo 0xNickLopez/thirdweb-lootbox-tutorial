@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { ConnectWallet } from "@3rdweb/react"
 
 export default function Navbar() {
   return (
@@ -15,6 +16,7 @@ export default function Navbar() {
           </a>
         </Link>
       </div>
+      <ConnectWallet />
     </nav>
   );
 }
