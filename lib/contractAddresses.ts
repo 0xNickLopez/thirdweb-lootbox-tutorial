@@ -1,0 +1,2 @@
+export const bundleAddress = '0x38d867D0763693Fb39BFDFBA43beB32711e0f499';
+export const packAddress = '0xD2F185a976A1018567BD6B33940807b0B546A1D9';
